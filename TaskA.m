@@ -140,6 +140,6 @@ elseif(1)
     prob2=prob2*100;
     display(['Q2b2:',num2str(prob2)]);
     
-    %Question 2 part b,2
+    %Question 2 part b,3
     %is answered in the report
 end
